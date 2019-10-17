@@ -1,0 +1,1 @@
+ssh://bitbucket.org/cxdemosg/EasyBuggy.git
