@@ -1,6 +1,9 @@
 # partner-training-oct-2019
-demo video link: 
+CxSAST demo video link: 
 https://www.dropbox.com/sh/4jxfj4o2k6i8vt9/AAA7y0buZTmYfEgOOrVmRY27a?dl=0
+
+CxIAST demo video link:
+https://www.dropbox.com/s/swh1jk4ucex2kef/CxIAST%20-%20JasonK%20v0.1.wmv?dl=0
 
 Software Security Platform for Partners:
 https://view.highspot.com/viewer/5e3e90b58117172b93409035
