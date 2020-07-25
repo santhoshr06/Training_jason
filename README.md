@@ -1,4 +1,4 @@
-# partner-training-oct-2019
+# partner-training-2019
 CxSAST demo video link: 
 https://www.dropbox.com/s/sl4l15t9ibux0va/CxSAST%20-%20JasonK%20v0.4.wmv?dl=0
 
