@@ -15,6 +15,6 @@ Software Security Platform for Partners:
 https://view.highspot.com/viewer/5e3e90b58117172b93409035
  
 CxCE Datasheet:
-https://view.highspot.com/viewer/5e3d0cc9659e9328dd35136f
+https://view.highspot.com/viewer/5f21393e659e9361c8c05c25
 
-updated on 1 June 2020
+updated on 29 July 2020
